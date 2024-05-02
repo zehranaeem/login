@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="myTheme">#FF8C00</color>
+    <color name="myThemeLight">#FFC800</color>
 </resources>
